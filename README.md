@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Griphboss
 - 👀 I’m interested in Minecraft, Roblox and Coding :)
 - 🌱 I’m currently learning HTML and Javascript
-- 💞️ I’m looking to collaborate on absolutely nothing
-- 📫 How to reach me: you can't.
 - 😄 Pronouns: He/Is/Him
-- ⚡ Fun fact: I like to play American Football with friends
+- ⚡ Fun fact: I like to climb
 
 <!---
 Griphboss/Griphboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
